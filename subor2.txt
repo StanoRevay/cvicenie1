@@ -1,1 +1,3 @@
 String "Ahoj ako sa mas"
+String "uz len pol hodina..."
+String "uz len pol hodina..."
