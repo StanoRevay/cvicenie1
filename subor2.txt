@@ -1,0 +1,1 @@
+String "Ahoj ako sa mas"
